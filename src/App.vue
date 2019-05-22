@@ -1,7 +1,7 @@
 <template>
   <div class="app.container">
     <!-- 顶部 Header 区域 -->
-    <mt-header fixed title="固定在顶部"></mt-header>
+    <mt-header fixed title="固111定在顶部"></mt-header>
     <!-- 中间的 路由 router-view 区域 -->
 
     <!-- 底部 Tabbar 区域 -->
