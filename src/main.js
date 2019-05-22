@@ -1,4 +1,4 @@
-//入口文件
+//入口文件nihao
 import  Vue from 'vue'
 
 //导入app根组件
