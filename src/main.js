@@ -1,4 +1,4 @@
-//入口文件2
+//入口文件
 import  Vue from 'vue'
 
 //导入app根组件
